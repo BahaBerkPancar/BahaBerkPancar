@@ -95,8 +95,7 @@ These repos are private for now.
 
 - **KÖK&KOD 2026: Mercek**, with team Hotfix. Türkiye's foundation works, explored on your phone: a map, deep-zoom
   inventory photos and the source behind every fact. Web, iOS and Android.
-- **Greece–Türkiye Hackathon 2026**, with team Hotfix. A wildfire decision-support map for the Aegean, in the
-  Disaster-Resilient Smart City track.
+- **VADİ Hackathon**: a health tracking app paired with a hospital app, so patients and hospitals see the same picture.
 
 ## 42 journey
 
