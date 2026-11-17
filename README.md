@@ -114,8 +114,8 @@ change to prompt/model ─▶ model-regression-detector ─▶ CI pass / fail
 
 ### [webserver_42](https://github.com/BahaBerkPancar/webserver_42)
 
-A lightweight HTTP server in C++98, built from scratch on non-blocking I/O and `poll()`. It handles many clients,
-GET, POST and DELETE, static files, CGI and NGINX-style routing.
+A lightweight HTTP server in C++98, built from scratch on non-blocking I/O and `poll()`. It serves static files
+over GET with redirects and an NGINX-style config. POST, DELETE and CGI are in progress.
 
 <img src="https://img.shields.io/badge/C++98-00599C?logo=cplusplus&logoColor=white" alt="C++98">
 <img src="https://img.shields.io/badge/HTTP-poll()-475569" alt="HTTP with poll()">
@@ -125,7 +125,7 @@ GET, POST and DELETE, static files, CGI and NGINX-style routing.
 
 ### [CUB3D](https://github.com/BahaBerkPancar/CUB3D)
 
-A raycasting engine inspired by the first FPS games. You walk through a textured maze in real time.
+cub3D in C with MiniLibX: map parsing and validation, player movement and a minimap. The DDA raycasting renderer is in progress.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C">
 <img src="https://img.shields.io/badge/graphics-raycasting-475569" alt="Raycasting">
