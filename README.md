@@ -125,7 +125,7 @@ over GET with redirects and an NGINX-style config. POST, DELETE and CGI are in p
 
 ### [CUB3D](https://github.com/BahaBerkPancar/CUB3D)
 
-cub3D in C with MiniLibX: map parsing and validation, player movement and a minimap. The DDA raycasting renderer is in progress.
+A raycasting engine inspired by the first FPS games: a textured first-person maze rendered with DDA, plus a minimap.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C">
 <img src="https://img.shields.io/badge/graphics-raycasting-475569" alt="Raycasting">
